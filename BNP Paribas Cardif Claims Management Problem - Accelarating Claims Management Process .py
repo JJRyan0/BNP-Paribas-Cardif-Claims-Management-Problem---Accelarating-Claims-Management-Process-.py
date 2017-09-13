@@ -2,7 +2,7 @@
 
 # # Introduction
 # This tutorial shows how sklearn [Random Forst Model](https://en.wikipedia.org/wiki/Random_forest) ensemble classification model can be utilized to make a prediction. 
-This tutorial covers usage of sklearn machine learning module from Python. Title: Accelerating Insurance Claim Process with Machine Learning using Random Forests
+# This tutorial covers usage of sklearn machine learning module from Python. Title: Accelerating Insurance Claim Process with Machine Learning using Random Forests
 
 #Kaggle competition: BNP Paribas cardif claims management problem
 
